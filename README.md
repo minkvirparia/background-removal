@@ -40,4 +40,6 @@ streamlit run app.py
 
 ## Demo
 
-Checkout the web app demo on huggingface Spaces with the name **background-removal-app**.
+Checkout the web app demo on huggingface Spaces. 
+
+Link: [**background-removal-app**](https://huggingface.co/spaces/mink-virparia/background-removal-app).
