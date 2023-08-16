@@ -38,3 +38,6 @@ streamlit run app.py
 
 ![App Screenshot 2](pic2.png)
 
+## Demo
+
+Checkout the web app demo on huggingface Spaces with the name **background-removal-app**.
